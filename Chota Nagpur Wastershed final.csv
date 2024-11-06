@@ -1,0 +1,171 @@
+Elevation,Slope(Degree),Drainage Density(km^2),TWI,Lineament(km^2),Annual Rainfall(cm),NDVI,LULC,Soil,Lithology,Geomorphology,gwpz
+21.41,24.36,0.23,19.06,0.55,112.02,0.23,Water Bodies,Coarse Loamy,ANORTHOSITE,Residual Hill,Good
+74.3,12.96,0.2,13.89,0.23,109.68,0.33,Water Bodies,Fine Silt,BIOTITE GNEISS,Valley Fill,Moderate
+271.87,12.01,0,15.6,0.2,109.5,0.38,Other Lands,Fine Silt,HORNBLENDE GNEISS,River,Very Poor
+246.14,4.07,0.52,24.14,0.58,108.12,0.43,Water Bodies,Fine Loamy,BIOTITE GNEISS,Pediment,Very Good
+303.7,1.07,0.03,10.29,0.45,108.15,0.27,Water Bodies,Coarse Loamy,ANORTHOSITE,Residual Hill,Moderate
+289.5,8.85,0.56,13.28,0.56,97.86,0.31,Other Lands,Fine Loamy,PRESENT DEPOSIT,Pediment,Moderate
+244.8,9.36,0.66,21.17,0.35,105.86,0.41,Other Lands,Coarse Loamy,BIOTITE GNEISS,Valley Fill,Poor
+23.63,42.5,0.65,12.56,0,100.76,0.23,Water Bodies,Fine Silt,BIOTITE GNEISS,Pediment,Very Poor
+209.18,28.86,0.38,15.82,0.43,98.89,0.33,Sandy Lands,Coarse Loamy,ANORTHOSITE,Pediplain,Moderate
+238.97,42.56,0.46,17.4,0.09,107.54,0.46,Agricultural Lands,Coarse Loamy,GRANITE GNEISS,Pediment,Poor
+178.93,9.4,0.03,4.79,0.54,105.26,0.4,Agricultural Lands,Clayey Loamy,QUARTZITE QUARTZ SCHIST,Valley Fill,Very Good
+26.93,21.89,0.55,11.08,0.53,104.12,0.44,Sandy Lands,Clayey Loamy,GRANITE GNEISS,River,Moderate
+188.71,29.98,0.35,16.65,0.09,107.79,0.41,Other Lands,Fine Silt,BIOTITE GNEISS,Water bodies,Very Poor
+196.13,17.43,0.19,24.91,0.01,101.02,0.25,Agricultural Lands,Fine Loamy,ANORTHOSITE,Water bodies,Very Poor
+146.92,30.22,0.2,18.36,0.53,100.21,0.26,Water Bodies,Coarse Loamy,QUARTZITE QUARTZ SCHIST,Pediplain,Moderate
+83.97,13.88,0.03,13.27,0.16,105.71,0.44,Forests,Clayey Loamy,HORNBLENDE GNEISS,Valley Fill,Very Good
+24.05,2.5,0.13,19.78,0.37,101.17,0.28,Built-up Area,Fine Loamy,GRANITE GNEISS,River,Moderate
+291.64,20.54,0.46,20.22,0.31,106.19,0.36,Built-up Area,Clayey Loamy,HORNBLENDE GNEISS,River,Good
+23.25,23.34,0.73,25.09,0.16,110.78,0.22,Water Bodies,Coarse Loamy,PRESENT DEPOSIT,Valley Fill,Very Poor
+368.42,25.48,0.5,14.99,0.41,103.64,0.27,Water Bodies,Fine Loamy,ANORTHOSITE,Residual Hill,Very Good
+326.36,41.74,0.12,5.84,0.26,101.04,0.28,Sandy Lands,Fine Loamy,GRANITE GNEISS,Pediment,Good
+313.1,33.85,0.07,22.7,0.29,110.06,0.32,Forests,Fine Silt,ANORTHOSITE,Pediplain,Moderate
+113.29,30.74,0.04,24.29,0.04,108.84,0.26,Sandy Lands,Clayey Loamy,BIOTITE GNEISS,Pediplain,Moderate
+38.28,10,0.44,23.78,0.51,98.07,0.36,Sandy Lands,Fine Silt,PRESENT DEPOSIT,Pediment,Very Poor
+323.79,12.43,0.26,12.78,0.41,114.74,0.44,Built-up Area,Fine Loamy,QUARTZITE QUARTZ SCHIST,Water bodies,Moderate
+378.54,38.92,0.59,4.75,0.57,105.63,0.19,Built-up Area,Fine Silt,GRANITE GNEISS,Pediplain,Moderate
+108.3,33.19,0.5,11.67,0.13,114.48,0.31,Water Bodies,Fine Silt,GRANITE GNEISS,Valley Fill,Poor
+315.93,11.07,0.5,21.2,0.37,101.23,0.34,Water Bodies,Fine Silt,PRESENT DEPOSIT,Valley Fill,Very Good
+377.53,11.22,0.39,11.46,0.44,106.12,0.44,Sandy Lands,Fine Silt,QUARTZITE QUARTZ SCHIST,Water bodies,Very Poor
+310.13,3.73,0.07,16.51,0.32,108.97,0.45,Sandy Lands,Clayey Loamy,HORNBLENDE GNEISS,Residual Hill,Moderate
+126.53,7,0.19,19.78,0.28,103.92,0.26,Forests,Coarse Loamy,ANORTHOSITE,Valley Fill,Very Good
+332.24,15.36,0.73,14.24,0.24,103.45,0.38,Agricultural Lands,Fine Silt,GRANITE GNEISS,Water bodies,Moderate
+108.21,20.79,0.72,3.37,0.15,103.43,0.46,Other Lands,Fine Silt,BIOTITE GNEISS,Residual Hill,Very Good
+206.41,8.94,0.71,8.04,0.21,99.81,0.33,Built-up Area,Fine Loamy,BIOTITE GNEISS,Pediment,Very Poor
+63.41,35.99,0.26,12.03,0.15,106.17,0.21,Sandy Lands,Clayey Loamy,HORNBLENDE GNEISS,Valley Fill,Very Poor
+361.93,33.15,0.35,10.97,0.09,101.07,0.36,Sandy Lands,Fine Silt,GRANITE GNEISS,Valley Fill,Very Good
+164.46,39.59,0.36,15.14,0.26,109.79,0.45,Water Bodies,Clayey Loamy,QUARTZITE QUARTZ SCHIST,Pediment,Good
+329.69,15.71,0.31,19.93,0.31,100.43,0.35,Sandy Lands,Fine Loamy,QUARTZITE QUARTZ SCHIST,Water bodies,Moderate
+380.09,6.8,0.29,16.79,0.22,102.69,0.26,Sandy Lands,Coarse Loamy,HORNBLENDE GNEISS,Residual Hill,Very Poor
+54.46,4.87,0.29,2.97,0.56,107.79,0.4,Other Lands,Fine Loamy,QUARTZITE QUARTZ SCHIST,Pediment,Poor
+159.4,3.74,0.72,7.6,0.38,112.2,0.42,Built-up Area,Fine Silt,ANORTHOSITE,Pediplain,Good
+57.21,29.05,0.19,5.95,0.55,97.81,0.24,Other Lands,Clayey Loamy,GRANITE GNEISS,Pediplain,Very Good
+167.47,14.81,0.15,23.42,0.19,110.75,0.28,Forests,Clayey Loamy,PRESENT DEPOSIT,Water bodies,Very Poor
+85.76,36.38,0.63,11.27,0.25,114.76,0.29,Built-up Area,Coarse Loamy,GRANITE GNEISS,River,Poor
+132.91,4.26,0.47,20.14,0.28,103.53,0.38,Forests,Coarse Loamy,PRESENT DEPOSIT,Water bodies,Very Poor
+274.1,21.85,0.75,7.36,0.55,98.74,0.21,Other Lands,Fine Loamy,GRANITE GNEISS,Pediment,Poor
+363.66,15.79,0.57,7.47,0.46,101.44,0.41,Sandy Lands,Fine Loamy,PRESENT DEPOSIT,River,Poor
+45.47,36.18,0.06,6.19,0.28,109.56,0.19,Forests,Coarse Loamy,PRESENT DEPOSIT,Water bodies,Poor
+87.59,15.4,0.4,13.86,0.23,108.34,0.3,Sandy Lands,Fine Silt,GRANITE GNEISS,Valley Fill,Moderate
+209.09,41.58,0.08,13.94,0.57,109.62,0.22,Other Lands,Fine Loamy,QUARTZITE QUARTZ SCHIST,Residual Hill,Very Poor
+294.93,6.44,0.57,3.67,0.53,110.54,0.22,Other Lands,Fine Loamy,PRESENT DEPOSIT,Pediplain,Moderate
+299.53,21.39,0.22,16.48,0.32,101.81,0.21,Agricultural Lands,Fine Silt,HORNBLENDE GNEISS,Water bodies,Very Good
+167.91,32.53,0.64,24.2,0.47,98.55,0.24,Agricultural Lands,Fine Loamy,HORNBLENDE GNEISS,Pediment,Very Good
+54.88,36.96,0.21,15.32,0.16,102.09,0.34,Forests,Coarse Loamy,HORNBLENDE GNEISS,River,Moderate
+329.68,41.59,0.66,20.07,0.47,110.39,0.3,Agricultural Lands,Clayey Loamy,GRANITE GNEISS,River,Poor
+354,42.96,0.3,7.83,0.35,109.63,0.4,Agricultural Lands,Coarse Loamy,PRESENT DEPOSIT,Water bodies,Poor
+174.44,33.68,0.57,20.35,0.31,110.09,0.42,Built-up Area,Coarse Loamy,GRANITE GNEISS,Pediplain,Very Good
+207.98,6.92,0.28,10.17,0.58,100.64,0.37,Forests,Coarse Loamy,GRANITE GNEISS,Pediplain,Very Poor
+225.88,14.87,0.05,7.58,0.54,113.28,0.19,Sandy Lands,Coarse Loamy,PRESENT DEPOSIT,River,Very Good
+147.01,0.26,0.57,23.09,0.33,105.38,0.37,Other Lands,Fine Silt,GRANITE GNEISS,Valley Fill,Very Good
+52.82,22.64,0.51,21.87,0,111.12,0.19,Other Lands,Coarse Loamy,HORNBLENDE GNEISS,Pediment,Moderate
+57.41,22.8,0.42,24.34,0.38,108.12,0.34,Other Lands,Coarse Loamy,GRANITE GNEISS,Water bodies,Poor
+315.45,4.58,0.62,21.53,0.3,104.16,0.42,Forests,Coarse Loamy,HORNBLENDE GNEISS,Pediplain,Good
+106.49,25.16,0.54,11.28,0.03,110.55,0.33,Other Lands,Coarse Loamy,GRANITE GNEISS,Valley Fill,Very Poor
+323.58,22.13,0.03,16.36,0.24,104.4,0.26,Forests,Fine Silt,QUARTZITE QUARTZ SCHIST,Pediment,Very Good
+54.37,25.3,0.09,3.73,0.07,105.49,0.39,Water Bodies,Fine Silt,GRANITE GNEISS,Valley Fill,Moderate
+268.75,18.97,0.51,25.07,0.23,104.03,0.21,Agricultural Lands,Fine Loamy,PRESENT DEPOSIT,Residual Hill,Poor
+41.28,28.56,0.33,25.28,0.36,99.91,0.29,Built-up Area,Fine Silt,GRANITE GNEISS,Residual Hill,Good
+314.27,2.19,0.5,14.02,0.07,102.77,0.29,Sandy Lands,Fine Loamy,PRESENT DEPOSIT,Valley Fill,Very Poor
+130.65,18.35,0.48,16.32,0.24,104.33,0.43,Water Bodies,Coarse Loamy,QUARTZITE QUARTZ SCHIST,Pediplain,Good
+210.12,1.52,0.14,11.25,0.44,100.67,0.26,Forests,Clayey Loamy,GRANITE GNEISS,River,Very Poor
+366.07,34.67,0.46,20.72,0.03,111.41,0.35,Sandy Lands,Fine Silt,ANORTHOSITE,River,Moderate
+297.59,11.93,0.26,20.62,0.11,98.67,0.46,Other Lands,Fine Loamy,ANORTHOSITE,River,Good
+157.89,38.6,0.21,19.28,0.05,102.14,0.33,Forests,Coarse Loamy,QUARTZITE QUARTZ SCHIST,Water bodies,Very Good
+150.86,40.81,0.33,13.8,0.29,102.91,0.36,Other Lands,Coarse Loamy,BIOTITE GNEISS,Valley Fill,Very Poor
+268.03,8.29,0.74,11.04,0.38,104.73,0.34,Built-up Area,Clayey Loamy,QUARTZITE QUARTZ SCHIST,Water bodies,Good
+136.92,34.83,0.07,20.41,0.46,112.3,0.23,Sandy Lands,Clayey Loamy,PRESENT DEPOSIT,Valley Fill,Poor
+370.4,20.81,0.03,12.02,0.22,103.08,0.38,Water Bodies,Fine Silt,GRANITE GNEISS,Water bodies,Good
+114.58,32.09,0.11,17.36,0.2,99.36,0.42,Agricultural Lands,Clayey Loamy,PRESENT DEPOSIT,Pediplain,Moderate
+275.47,26.66,0.75,9.07,0.25,112.83,0.22,Sandy Lands,Fine Silt,QUARTZITE QUARTZ SCHIST,Valley Fill,Moderate
+94.06,6.6,0.26,6.5,0.53,114.51,0.35,Built-up Area,Fine Silt,HORNBLENDE GNEISS,Water bodies,Poor
+132.25,23.89,0.54,5.85,0.15,103.94,0.32,Forests,Fine Loamy,ANORTHOSITE,Residual Hill,Poor
+266.91,6.44,0.2,8.55,0.03,102.82,0.32,Forests,Fine Silt,GRANITE GNEISS,Valley Fill,Moderate
+183.64,10.1,0.51,21.42,0.38,105.66,0.29,Other Lands,Coarse Loamy,ANORTHOSITE,Pediment,Poor
+294.57,11.67,0.64,11.68,0.26,102.75,0.36,Sandy Lands,Clayey Loamy,BIOTITE GNEISS,Valley Fill,Good
+59.73,4.09,0.25,16.06,0.12,100.42,0.24,Agricultural Lands,Fine Silt,ANORTHOSITE,Valley Fill,Moderate
+140.79,9.65,0.34,13.55,0.22,110.92,0.47,Water Bodies,Fine Loamy,PRESENT DEPOSIT,Pediment,Very Poor
+219.97,0.65,0.6,20.8,0.31,97.83,0.32,Built-up Area,Fine Loamy,ANORTHOSITE,Water bodies,Good
+204.84,23.3,0.57,26.07,0.36,101.68,0.31,Forests,Fine Loamy,GRANITE GNEISS,Valley Fill,Good
+311.68,27.25,0.69,6.44,0.17,111.12,0.2,Agricultural Lands,Fine Loamy,BIOTITE GNEISS,River,Good
+232.73,10.75,0.17,3.63,0.58,113.38,0.34,Other Lands,Clayey Loamy,GRANITE GNEISS,Valley Fill,Very Poor
+258.1,4.09,0.48,12.25,0.55,103.89,0.21,Built-up Area,Clayey Loamy,ANORTHOSITE,Residual Hill,Poor
+56.02,7.05,0.32,4.18,0.22,102.41,0.21,Built-up Area,Fine Silt,PRESENT DEPOSIT,Pediment,Good
+271.17,6.83,0.68,19.21,0.21,103.82,0.31,Built-up Area,Coarse Loamy,HORNBLENDE GNEISS,Water bodies,Good
+140.47,21.91,0.32,4.9,0.23,108.22,0.36,Built-up Area,Fine Silt,QUARTZITE QUARTZ SCHIST,Valley Fill,Very Poor
+56.87,18.85,0.46,7.09,0.03,108.22,0.31,Built-up Area,Coarse Loamy,BIOTITE GNEISS,Residual Hill,Good
+284.15,41.89,0,19.6,0.25,103.75,0.25,Built-up Area,Coarse Loamy,GRANITE GNEISS,Pediment,Very Good
+213.5,35.14,0.64,18.04,0.11,100.53,0.37,Built-up Area,Clayey Loamy,HORNBLENDE GNEISS,Pediment,Very Good
+63.03,21.8,0.4,7.42,0.55,105.85,0.29,Built-up Area,Clayey Loamy,BIOTITE GNEISS,Water bodies,Very Good
+162.87,28.61,0.28,17.48,0.15,99.31,0.37,Sandy Lands,Coarse Loamy,QUARTZITE QUARTZ SCHIST,Pediplain,Good
+212.84,30.42,0.41,15.04,0.42,99.93,0.2,Other Lands,Coarse Loamy,PRESENT DEPOSIT,Water bodies,Very Good
+204.9,27.48,0.22,21.59,0.35,100.51,0.26,Built-up Area,Coarse Loamy,QUARTZITE QUARTZ SCHIST,Residual Hill,Very Good
+177.71,10.12,0.58,11.67,0.11,113.15,0.25,Other Lands,Fine Loamy,BIOTITE GNEISS,Residual Hill,Very Good
+301.14,13.65,0.71,9.57,0.4,100.85,0.46,Sandy Lands,Coarse Loamy,GRANITE GNEISS,Valley Fill,Good
+191.53,40.6,0.66,21.59,0.22,97.82,0.29,Forests,Coarse Loamy,ANORTHOSITE,Pediment,Moderate
+368.98,26.62,0.31,6.21,0.52,106.64,0.43,Built-up Area,Fine Loamy,PRESENT DEPOSIT,Pediplain,Good
+19.01,18.13,0.01,6.38,0.52,102.16,0.2,Built-up Area,Fine Loamy,QUARTZITE QUARTZ SCHIST,River,Moderate
+66.48,21.54,0.64,24.09,0.43,102.3,0.3,Sandy Lands,Fine Silt,QUARTZITE QUARTZ SCHIST,Valley Fill,Very Good
+21.82,37.39,0.25,11.5,0.15,100.77,0.44,Agricultural Lands,Clayey Loamy,PRESENT DEPOSIT,Residual Hill,Poor
+280.32,31.7,0.24,15.83,0.53,102.7,0.22,Water Bodies,Fine Loamy,PRESENT DEPOSIT,Water bodies,Poor
+329.26,42.63,0.13,16.6,0.49,107.46,0.3,Other Lands,Coarse Loamy,HORNBLENDE GNEISS,River,Good
+112.08,28.64,0.59,3.61,0.21,112.37,0.45,Agricultural Lands,Fine Loamy,BIOTITE GNEISS,Valley Fill,Moderate
+204.53,26.62,0.65,4.33,0.18,106.86,0.29,Other Lands,Fine Loamy,GRANITE GNEISS,Valley Fill,Poor
+315.34,38.93,0.35,18.95,0.05,99.16,0.2,Built-up Area,Clayey Loamy,BIOTITE GNEISS,Valley Fill,Very Good
+135.87,8.05,0.16,19.25,0.08,107.05,0.2,Other Lands,Clayey Loamy,ANORTHOSITE,Pediment,Very Good
+230.25,7.93,0.43,22.25,0.16,113.17,0.38,Forests,Fine Loamy,PRESENT DEPOSIT,Pediment,Moderate
+166.6,25.56,0.7,23.75,0.08,114.21,0.27,Other Lands,Fine Silt,HORNBLENDE GNEISS,Valley Fill,Very Good
+242.29,35.77,0.18,4.01,0.07,112.41,0.26,Other Lands,Fine Silt,QUARTZITE QUARTZ SCHIST,Pediplain,Poor
+192.03,23.43,0.35,14.44,0.45,107.69,0.36,Sandy Lands,Clayey Loamy,HORNBLENDE GNEISS,Pediplain,Good
+205.88,22.23,0.4,26.21,0.11,103.97,0.2,Forests,Fine Silt,BIOTITE GNEISS,Water bodies,Very Good
+156.51,20.18,0.72,24.55,0.23,103.64,0.21,Sandy Lands,Clayey Loamy,GRANITE GNEISS,Residual Hill,Good
+105.3,26.32,0,4.62,0.57,106.06,0.26,Water Bodies,Fine Loamy,HORNBLENDE GNEISS,Valley Fill,Moderate
+131.55,33.63,0.22,6.22,0.03,111.2,0.25,Built-up Area,Fine Silt,ANORTHOSITE,Water bodies,Very Good
+202.01,16.36,0.23,4.09,0.17,111.65,0.43,Sandy Lands,Fine Loamy,GRANITE GNEISS,River,Poor
+125.55,20.57,0.03,3.37,0.31,105.12,0.42,Other Lands,Clayey Loamy,GRANITE GNEISS,Residual Hill,Poor
+40.25,25.53,0.42,15.28,0.02,108.26,0.41,Water Bodies,Fine Silt,QUARTZITE QUARTZ SCHIST,Residual Hill,Good
+370.57,26.85,0.55,19.08,0.17,100.71,0.34,Agricultural Lands,Clayey Loamy,QUARTZITE QUARTZ SCHIST,Water bodies,Very Good
+42.15,19.14,0.31,5.61,0.58,103,0.21,Other Lands,Coarse Loamy,ANORTHOSITE,Pediplain,Very Poor
+80.31,11.49,0.56,4.69,0.15,99.66,0.32,Sandy Lands,Clayey Loamy,HORNBLENDE GNEISS,Water bodies,Poor
+54.83,30.98,0.15,20.18,0.01,100.01,0.29,Other Lands,Clayey Loamy,ANORTHOSITE,Pediment,Good
+218.11,9.24,0.31,13.88,0.24,101.81,0.39,Other Lands,Clayey Loamy,ANORTHOSITE,Water bodies,Good
+310.64,40.06,0.51,10.91,0.57,114.17,0.4,Sandy Lands,Clayey Loamy,PRESENT DEPOSIT,Residual Hill,Moderate
+181.86,17.47,0.32,8.76,0.02,108.49,0.25,Sandy Lands,Clayey Loamy,ANORTHOSITE,Pediplain,Very Poor
+200.01,28.73,0.67,4.32,0.34,104.69,0.4,Built-up Area,Fine Loamy,BIOTITE GNEISS,River,Good
+337.16,22.05,0.39,19.75,0.48,104.56,0.42,Forests,Coarse Loamy,BIOTITE GNEISS,Valley Fill,Moderate
+246.1,40.73,0.29,24.77,0.55,99.95,0.43,Other Lands,Clayey Loamy,QUARTZITE QUARTZ SCHIST,Valley Fill,Moderate
+272.99,22.71,0.13,21.31,0.26,112.11,0.47,Forests,Fine Silt,PRESENT DEPOSIT,Pediment,Very Good
+204.93,16.68,0.54,8.55,0.27,113.97,0.21,Sandy Lands,Coarse Loamy,QUARTZITE QUARTZ SCHIST,Water bodies,Very Good
+184.06,21.98,0.69,20.32,0.53,112.04,0.22,Agricultural Lands,Clayey Loamy,QUARTZITE QUARTZ SCHIST,River,Very Poor
+323,23.11,0.7,18.91,0.39,109.82,0.32,Forests,Fine Loamy,HORNBLENDE GNEISS,Valley Fill,Moderate
+166.65,24.86,0.6,17.43,0.04,100.61,0.22,Forests,Coarse Loamy,HORNBLENDE GNEISS,Valley Fill,Moderate
+362.71,18.13,0.73,20.76,0.22,106.1,0.32,Forests,Fine Silt,PRESENT DEPOSIT,Residual Hill,Very Good
+271.14,30.93,0.25,2.98,0.02,100.81,0.3,Agricultural Lands,Fine Silt,HORNBLENDE GNEISS,Pediment,Poor
+321,36.97,0.74,22.7,0.2,99.26,0.23,Forests,Clayey Loamy,PRESENT DEPOSIT,River,Very Good
+285.66,23.56,0.3,25.11,0.14,107.79,0.35,Built-up Area,Fine Loamy,HORNBLENDE GNEISS,Pediment,Poor
+196.7,40.82,0.15,4.82,0.47,101.33,0.31,Forests,Fine Loamy,QUARTZITE QUARTZ SCHIST,Pediment,Moderate
+372.49,13.76,0.49,19.2,0.35,111.91,0.23,Other Lands,Coarse Loamy,HORNBLENDE GNEISS,Pediment,Very Poor
+128.81,15.25,0.18,26.06,0.21,112.87,0.2,Other Lands,Clayey Loamy,GRANITE GNEISS,River,Very Good
+154.71,1.67,0.2,3.53,0.05,99.75,0.24,Sandy Lands,Fine Loamy,PRESENT DEPOSIT,Pediplain,Very Poor
+295.5,39.98,0.7,24.26,0.33,113.25,0.23,Forests,Fine Silt,HORNBLENDE GNEISS,Valley Fill,Poor
+317.73,15.96,0.13,10.34,0.21,103,0.39,Agricultural Lands,Fine Loamy,ANORTHOSITE,Residual Hill,Very Poor
+242.55,41.05,0.56,3.02,0.2,99.58,0.23,Other Lands,Fine Silt,GRANITE GNEISS,Residual Hill,Moderate
+370.54,42.35,0.49,18.43,0.05,101.73,0.26,Sandy Lands,Fine Loamy,GRANITE GNEISS,Pediplain,Very Good
+220.53,10.69,0.74,21.19,0.16,108.94,0.45,Other Lands,Fine Silt,GRANITE GNEISS,Pediplain,Very Poor
+41.92,18.76,0.65,12.42,0.57,114.15,0.44,Sandy Lands,Fine Loamy,BIOTITE GNEISS,Valley Fill,Very Poor
+102.58,26.84,0.28,13.43,0.43,106.82,0.33,Sandy Lands,Coarse Loamy,GRANITE GNEISS,River,Very Good
+155.89,13.58,0.42,25.18,0.31,111.47,0.38,Built-up Area,Coarse Loamy,BIOTITE GNEISS,Residual Hill,Poor
+315.92,16.63,0.62,22.33,0.2,100.34,0.23,Water Bodies,Clayey Loamy,GRANITE GNEISS,Residual Hill,Moderate
+362.13,41.26,0.32,24.73,0.18,103.19,0.39,Other Lands,Fine Silt,PRESENT DEPOSIT,Water bodies,Very Good
+166.66,33.98,0.04,15.03,0.57,100.54,0.2,Built-up Area,Clayey Loamy,GRANITE GNEISS,Valley Fill,Good
+247.22,13.81,0.49,3.09,0.46,101.28,0.42,Agricultural Lands,Clayey Loamy,HORNBLENDE GNEISS,Valley Fill,Very Good
+312.58,33.34,0.15,21.72,0.15,107.35,0.43,Built-up Area,Coarse Loamy,ANORTHOSITE,Residual Hill,Good
+318.95,3.41,0.47,24.41,0.38,103,0.44,Agricultural Lands,Coarse Loamy,ANORTHOSITE,Valley Fill,Good
+364.65,18.46,0.47,4.58,0.44,103.25,0.44,Agricultural Lands,Fine Loamy,ANORTHOSITE,Water bodies,Good
+364.94,35.63,0.73,25.27,0.36,107.61,0.31,Other Lands,Fine Silt,HORNBLENDE GNEISS,Pediment,Moderate
+271.94,30.02,0.69,4.37,0.29,105.12,0.2,Water Bodies,Clayey Loamy,QUARTZITE QUARTZ SCHIST,Water bodies,Very Poor
+275.71,14.65,0.09,19.49,0.11,113.39,0.43,Built-up Area,Clayey Loamy,PRESENT DEPOSIT,Valley Fill,Very Good
+90.25,14.56,0.53,11.79,0.24,109.13,0.3,Other Lands,Clayey Loamy,HORNBLENDE GNEISS,Water bodies,Good
+105.98,7.75,0.29,19.49,0.5,109.22,0.2,Other Lands,Coarse Loamy,QUARTZITE QUARTZ SCHIST,Pediment,Poor
+224.64,19.13,0.03,16.8,0.53,103.84,0.34,Sandy Lands,Clayey Loamy,QUARTZITE QUARTZ SCHIST,Pediplain,Poor
